@@ -1,0 +1,14 @@
+Texto a ser mostrado no display de alarmes.
+Cadeia de 30 caracteres. Será no formato
+HH:MM:SS NSEQ: #### TEXTOTEXTOTEXTOTEXTOTEXTOTEXTOTEXTO PRI: ##
+
+01 - Temperatura muito alta
+02 - Temperatura muito baixa
+03 - Panela muito cheia
+04 - Panela muito vazia
+05 - Pressão do vácuo muito alta
+06 - Reserva de gás inerte no fim
+07 - Falha no resfriamento
+08 - Falha na injeção de gás
+09 - Falha ao esvaziar panela
+10 - Falha ao preencher panela 
